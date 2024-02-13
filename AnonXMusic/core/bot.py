@@ -1,3 +1,5 @@
+#fak
+
 from pyrogram import Client, errors
 from pyrogram.enums import ChatMemberStatus, ParseMode
 
@@ -52,3 +54,4 @@ class Anony(Client):
 
     async def stop(self):
         await super().stop()
+
