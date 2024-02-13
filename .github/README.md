@@ -1,2 +1,2 @@
-## أذڪࢪ حقوقي [Ahmed](t.me/bbnnq) 🤍🔥. 
-## قناتي: https://t.me/cczza 🤍🔥. 
+## BY. [sos](t.m/lllby) . 
+## channal : https://t.me/mmmsc . 
